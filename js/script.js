@@ -3,7 +3,9 @@ const listaSpesa = [
   'latte',
   'acqua',
   'uova',
-  'pasta'
+  'pasta',
+  'piatti',
+  'tovaglioli'
 ]
 console.log(listaSpesa)
 
@@ -17,5 +19,3 @@ while(countElement < listaSpesa.length){
   messagge.classList.add('list-unstyled');
   countElement++;
 }
-
-

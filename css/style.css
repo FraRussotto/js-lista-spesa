@@ -1,0 +1,21 @@
+h2{
+  color: brown;
+
+}
+
+#list{
+  color: brown;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  text-decoration: none;
+
+}
+
+.container_fr{
+  width: 400px;
+  margin: 0 auto;
+  padding: 50px;
+  margin-top: 100px;
+  border: 3px solid burlywood;
+  background-color: blanchedalmond;
+}
